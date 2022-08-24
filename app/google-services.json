@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112793576296",
+    "firebase_url": "https://jovial-sprite-219411.firebaseio.com",
+    "project_id": "jovial-sprite-219411",
+    "storage_bucket": "jovial-sprite-219411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112793576296:android:b51eee036deadec16dacdd",
+        "android_client_info": {
+          "package_name": "com.learn.firebaseademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112793576296-mbr8chrb77ej740o1a6d5413ego9r247.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learn.firebaseademo",
+            "certificate_hash": "8ae118ed29d938b6629c8b731ecc1a2dbd1ad44e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCml81JeNu7_JUfpQeNgse8cM0B5eb3wHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
